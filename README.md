@@ -1,36 +1,96 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Blight Resolver 🏙️ 
 
-## Getting Started
+![Status](https://img.shields.io/badge/status-hackathon_project-blue)
+![Team](https://img.shields.io/badge/team-memphis_hackers-orange)
+![Event](https://img.shields.io/badge/event-Memphis_City_Hackathon_2024-green)
 
-First, run the development server:
+## About Blight Resolver
+Blight Resolver is a community-driven platform that empowers Memphis residents to report and track urban blight while making a positive impact on their neighborhoods. Created during the Memphis City Hackathon 2024, this application gamifies the process of identifying and reporting urban issues, turning citizens into "Community Heroes."
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🌟 Key Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### For Community Members
+- **Interactive Map**: Visual representation of reported cases across Memphis
+- **Case Reporting**: Easy-to-use interface for submitting new blight cases
+- **Point System**: Earn points for verified reports and active participation
+- **Achievement Badges**: Recognition for consistent community contributions
+- **Progress Tracking**: Personal dashboard showing impact and achievements
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### For Administrators
+- **Case Management**: Review and validate submitted reports
+- **Analytics Dashboard**: Track citywide patterns and progress
+- **Status Updates**: Manage case lifecycle from submission to resolution
+- **Community Engagement**: Monitor and encourage citizen participation
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 💻 Technology Stack
+- React with TypeScript
+- Tailwind CSS for styling
+- Lucide React for icons
+- Mobile-responsive design
 
-## Learn More
+## 🌆 Project Background
+This project was conceived and developed during the Memphis City Hackathon 2024 to address the challenge of urban blight tracking and reporting. Our goal was to create an engaging platform that encourages community participation in city improvement initiatives.
 
-To learn more about Next.js, take a look at the following resources:
+## 🎮 Gamification Elements
+- Points system based on case severity and verification
+- Achievement badges for different types of contributions
+- Progress tracking toward higher community status levels
+- Community recognition for active participants
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📱 Screenshots
+- Map Interface with Case Pins
+- User Profile Dashboard
+- Case Reporting Form
+- Admin Review Interface
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🔄 Workflow
+1. **Report Submission**
+   - Users locate issue on map
+   - Submit details and photos
+   - Earn initial points
 
-## Deploy on Vercel
+2. **Verification Process**
+   - Admin review of submissions
+   - Point allocation upon verification
+   - Status updates to reporter
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. **Resolution Tracking**
+   - Progress updates
+   - Community impact metrics
+   - Badge awards
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🚀 Future Enhancements
+- Integration with city services API
+- Real-time status updates
+- Mobile app version
+- Community forum
+- Social sharing features
+- Historical data analysis
+- Machine learning for pattern recognition
+
+## 👥 Team Members
+- Memphis City Employer
+- Frontend Developers
+- UX/UI Designers
+- Community Engagement Experts
+
+## 🏆 Hackathon Achievement
+Developed as part of Memphis City Hackathon 2024, focusing on civic technology solutions for urban improvement.
+
+## 💡 Contributing
+While this project was created during a hackathon, we welcome contributions and suggestions for improvement. Please contact the team for collaboration opportunities.
+
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🙏 Acknowledgments
+- Memphis City Hackathon 2024 organizers
+- City of Memphis for data and support
+- Community advisors and mentors
+- All participating teams and judges
+
+## 📞 Contact
+For more information about the project, contact the Memphis City Hackathon organizers.
+
+---
+*Blight Resolver - Empowering Communities, Improving Cities*
